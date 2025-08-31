@@ -1,10 +1,10 @@
 # EEG-Attention-State-Classifier
 
 **DESCRIPTION**
-This machine learning project distinguishes between relaxed and concentrated mental states using EEG data from multiple subjects through the usage of "internal Attention Study" dataset avialable from OpenNeuro. The pipeline includes classification with cross-validation to demonstrate ways in which EEG can be used for cognitive state monitoring. 
+    This machine learning project distinguishes between relaxed and concentrated mental states using EEG data from multiple subjects through the usage of "internal Attention Study" dataset avialable from OpenNeuro. The pipeline includes classification with cross-validation to demonstrate ways in which EEG can be used for cognitive state monitoring. 
 
 **Dataset**
-Arnaud Delorme and Dean Radin (2021). Internal attention study. OpenNeuro. [Dataset] doi: 10.18112/openneuro.ds002691.v1.1.0
+    Arnaud Delorme and Dean Radin (2021). Internal attention study. OpenNeuro. [Dataset] doi: 10.18112/openneuro.ds002691.v1.1.0
 URL: https://openneuro.org/datasets/ds002691/versions/1.1.0/file-display/participants.json
 
 **Method**
